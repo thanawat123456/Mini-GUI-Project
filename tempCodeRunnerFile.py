@@ -1,0 +1,1 @@
+pack(ipadx=20,ipady=10,pady=20) 
